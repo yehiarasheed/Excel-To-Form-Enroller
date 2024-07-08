@@ -6,4 +6,4 @@ Automating student enrollment involves extracting data from Excel files and seam
 
  Validations include checking whether the Excel file exists, has at least one non-empty row, if the form exists in the given link, and whether a certain student record has missing information.
 
- You'll find the PDD (Process Definition Document) and 2 versions of the Excel File, the complete version and another one that tests for validations in the Folder `Additional Files`.
+ You'll find the PDD (Process Definition Document) and 2 versions of the Excel File, the complete version and another one that tests for validations in the  `Additional Files` Folder.
