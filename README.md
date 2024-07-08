@@ -1,6 +1,6 @@
 # Excel To Form Enroller
 ## Project Description
-Automating student enrollment involves extracting data from Excel files and seamlessly populating Google Forms for each individual student, including data validation. The end goal is to reduce the processing time per item by 80% and achieve better monitoring of overall activity using the logs provided by the robots.
+Automating student enrollment involves extracting data from Excel files and seamlessly populating Google Forms for each individual student, including data validation. The end goal is **to reduce the processing time per item by 80% and achieve better monitoring of overall activity using the logs provided by the robots.**
 
 ![Untitled design](https://github.com/yehiarasheed/Excel-To-Form-Enroller/assets/157399068/4598b44e-b21d-4d4e-9004-efa68fad739c)
 
