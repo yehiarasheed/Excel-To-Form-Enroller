@@ -34,6 +34,8 @@ You'll find the PDD (Process Definition Document) and two versions of the Excel 
    - Launch UiPath Studio.
    - Click on `Open` in the Start tab.
    - Navigate to the cloned repository folder and open the `.xaml` file.
+4. **Install Microsoft Excel:**
+   Ensure Microsoft Excel is installed on your computer, as it is required for handling Excel files in this project.
 
 ## Dependencies
 
