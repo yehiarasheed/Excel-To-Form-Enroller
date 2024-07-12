@@ -10,7 +10,7 @@ Validations include checking whether the Excel file exists, has at least one non
 
 You'll find the PDD (Process Definition Document) and two versions of the Excel File, the complete version and another one that tests for validations, in the `Additional Files` folder.
 
-> [!NOTE]
+> [!IMPORTANT]
 > Ensure to change the Excel file paths in the project to their respective relative paths on your machine.
 
 ## How to Install
